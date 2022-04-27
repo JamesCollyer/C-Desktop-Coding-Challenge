@@ -1,2 +1,1 @@
-# SelfLearning
-Project SelfLearning USYD
+Project for Info1111 (Self-Learning) USYD
